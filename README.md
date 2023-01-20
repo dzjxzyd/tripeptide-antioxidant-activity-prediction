@@ -1,4 +1,4 @@
-# tripoeptide-antioxidant-activity-prediction
+#Antioxidant activity prediction of tripoeptides
 Reference: Du, Z., Wang, D., & Li, Y. (2022). Comprehensive Evaluation and Comparison of Machine Learning Methods in QSAR Modeling of Antioxidant Tripeptides. ACS omega, 7(29), 25760-25771.
 
 Benchmark file:
